@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "\u062a\u062c\u0631\u064a\u0628\u064a",
+        "en": "Test"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "ahmedelazzhary@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/ahmedelazzhary-beep/tw-test",
+    "components": []
+}
